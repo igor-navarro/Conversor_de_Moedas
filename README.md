@@ -36,6 +36,5 @@ Moeda de destino: BRL
 
 ## Próximos passos
 
-- Versão em Java do mesmo conversor
 - Interface gráfica
 - Histórico de conversões salvo localmente
